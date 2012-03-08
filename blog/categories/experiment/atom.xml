@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: experiment | Kate Chapman]]></title>
-  <link href="http://wonderchook.github.com/blog/categories/experiment/atom.xml" rel="self"/>
-  <link href="http://wonderchook.github.com/"/>
-  <updated>2012-03-08T13:27:48+07:00</updated>
-  <id>http://wonderchook.github.com/</id>
+  <link href="http://wonderchook.com/blog/categories/experiment/atom.xml" rel="self"/>
+  <link href="http://wonderchook.com/"/>
+  <updated>2012-03-08T13:35:42+07:00</updated>
+  <id>http://wonderchook.com/</id>
   <author>
     <name><![CDATA[Kate Chapman]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The #pwyw Experiment]]></title>
-    <link href="http://wonderchook.github.com/blog/2012/02/21/pay-what-you-want-for-peer-help/"/>
+    <link href="http://wonderchook.com/blog/2012/02/21/pay-what-you-want-for-peer-help/"/>
     <updated>2012-02-21T04:14:03+07:00</updated>
-    <id>http://wonderchook.github.com/blog/2012/02/21/pay-what-you-want-for-peer-help</id>
+    <id>http://wonderchook.com/blog/2012/02/21/pay-what-you-want-for-peer-help</id>
     <content type="html"><![CDATA[<p>So previously I've read about restaurants switching to models of "pay what you want." For example <a href="http://www.nytimes.com/2010/05/21/us/21free.html">Panera Bread tried that model in 2010 in Missouri</a>. Checking back in 2011 it <a href="http://www.usatoday.com/money/industries/food/2011-05-16-panera-pay-what-you-can_n.htm">appears to still be going strong</a>. Though the model hasn't worked when applied to a Panera Bread in Portland, Oregon.  There <a href="http://consumerist.com/2011/09/why-paneras-pay-what-you-can-restaurant-didnt-work-in-portland.html">people ended up not paying, but also staying in the restaurant for many hours</a>. <a href="http://marginalrevolution.com/">Tyler Cowen</a> an economics professor <a href="http://www.salon.com/2010/06/17/pay_what_you_can_restaurants/">suggests that this method is unlikely to work for very many restaurant, especially if the method ceases to be a novelty</a>.</p>
 
 <h2>Can This Model Work for Peer to Peer Consulting?</h2>

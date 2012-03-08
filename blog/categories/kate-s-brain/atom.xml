@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: kate's brain | Kate Chapman]]></title>
-  <link href="http://wonderchook.github.com/blog/categories/kate-s-brain/atom.xml" rel="self"/>
-  <link href="http://wonderchook.github.com/"/>
-  <updated>2012-03-08T13:27:48+07:00</updated>
-  <id>http://wonderchook.github.com/</id>
+  <link href="http://wonderchook.com/blog/categories/kate-s-brain/atom.xml" rel="self"/>
+  <link href="http://wonderchook.com/"/>
+  <updated>2012-03-08T13:35:42+07:00</updated>
+  <id>http://wonderchook.com/</id>
   <author>
     <name><![CDATA[Kate Chapman]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Edition 2 of This Week in Kate's Brain - Living Well/Living Meaningfully]]></title>
-    <link href="http://wonderchook.github.com/blog/2012/02/26/edition-2-of-this-week-in-kates-brain-living-wellliving-meaningfully/"/>
+    <link href="http://wonderchook.com/blog/2012/02/26/edition-2-of-this-week-in-kates-brain-living-wellliving-meaningfully/"/>
     <updated>2012-02-26T01:20:28+07:00</updated>
-    <id>http://wonderchook.github.com/blog/2012/02/26/edition-2-of-this-week-in-kates-brain-living-wellliving-meaningfully</id>
+    <id>http://wonderchook.com/blog/2012/02/26/edition-2-of-this-week-in-kates-brain-living-wellliving-meaningfully</id>
     <content type="html"><![CDATA[<p>This week my life and the articles I was really thinking about coincided very closely. The item of note for me is I moved all of my belongings into storage for an indeterminate amount of time. I'm spending this next month in Jakarta and I'm unsure exactly that I'll be doing after that. Since my current living situation was coming to a close I figured it made sense not to do anything until April when I return. If nothing else I would save a months rent, more likely I will be happy for the flexibility when I return.</p>
 
 <p>Another reason this was "in Kate's Brain" this week was after a discussion with Christiann. We were discussing retirement and she made the statement that she "didn't think about retirement." This wasn't in the careless way someone might say. To me it was the 30s idea of "do we have to live the traditional life of our parents?"</p>
@@ -57,9 +57,9 @@
   
   <entry>
     <title type="html"><![CDATA[This Week in Kate's Brain]]></title>
-    <link href="http://wonderchook.github.com/blog/2012/02/20/this-week-in-kates-brain/"/>
+    <link href="http://wonderchook.com/blog/2012/02/20/this-week-in-kates-brain/"/>
     <updated>2012-02-20T01:15:31+07:00</updated>
-    <id>http://wonderchook.github.com/blog/2012/02/20/this-week-in-kates-brain</id>
+    <id>http://wonderchook.com/blog/2012/02/20/this-week-in-kates-brain</id>
     <content type="html"><![CDATA[<p>Thinking about data is a pretty common topic in my brain, but two particular articles got me thinking this week. Both happened to be from the New York Times.</p>
 
 <p>This first was "<a href="http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?_r=1&amp;pagewanted=1&amp;_r=1&amp;hp">How Companies Learn Your Secrets</a>." The introduction to the article was how Target uses statistical analysis to determine which of the company's customers is pregnant so they can target them with coupons. There is even a substory about a father whose daughter received the mailer and came to the store to complain.  It turned out he found out the following week his daughter was indeed pregnant. When a statistician has a training set of data it is amazing what can happen, in this particular case it was women who registered for Target baby registry.  From a privacy perspective it is interested to think about this case, technically Target isn't doing anything wrong but the whole thing seems a bit creepy.</p>
