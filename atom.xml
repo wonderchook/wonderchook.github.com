@@ -1,99 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>Cluckings of Kate</title>
-  <meta name="author" content="Kate Chapman">
-
-  
-  <meta name="description" content="First I must preface, no I am not a teenager. Yes, I did spent $80 on SMS last month. I&#8217;ve become quite used to using SMS for Twitter.  This &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://wonderchook.github.com">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <link href="/atom.xml" rel="alternate" title="Cluckings of Kate" type="application/atom+xml">
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Cluckings of Kate</a></h1>
-  
-    <h2>What?! Chickens are Awesome!</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:wonderchook.github.com" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[Cluckings of Kate]]></title>
+  <link href="http://wonderchook.github.com/atom.xml" rel="self"/>
+  <link href="http://wonderchook.github.com/"/>
+  <updated>2012-03-08T12:43:09+07:00</updated>
+  <id>http://wonderchook.github.com/</id>
+  <author>
+    <name><![CDATA[Kate Chapman]]></name>
     
-      <h1 class="entry-title"><a href="/blog/2012/03/03/sms-in-the-us/">How I Spent $80 on SMS Last Month</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-
-
-<time datetime="2012-03-03T15:17:14+07:00" pubdate data-updated="true">Mar 3<span>rd</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><em>First I must preface, no I am not a teenager. Yes, I did spent $80 on SMS last month.</em></p>
+  <entry>
+    <title type="html"><![CDATA[How I Spent $80 on SMS Last Month]]></title>
+    <link href="http://wonderchook.github.com/blog/2012/03/03/sms-in-the-us/"/>
+    <updated>2012-03-03T15:17:14+07:00</updated>
+    <id>http://wonderchook.github.com/blog/2012/03/03/sms-in-the-us</id>
+    <content type="html"><![CDATA[<p><em>First I must preface, no I am not a teenager. Yes, I did spent $80 on SMS last month.</em></p>
 
 <p>I&#8217;ve become quite used to using SMS for Twitter.  This habit came out of traveling places where the data connection wasn&#8217;t good or on occasion non-existant.  One time last year it even saved a friend from a travel issue. <a href="http://rrbaker.com/">Rob Baker</a> was joining our team in Indonesia and we were already out in <a href="http://en.wikipedia.org/wiki/Bau-Bau">Bau-Bau</a>. I told Rob if he ran into any issues that there was free Wifi at the Makassar Airport and he could always direct message me on Twitter. I told him this ahead of time because I was unsure if I would have a data connection in Bau-Bau. It was fortunate I did because there was no connection and the Wifi at the hotel of our training was broken.</p>
 
@@ -125,42 +50,15 @@
 <p>Considering I spent $80 in February on Mobile to Tweet and SMS my friends it seems a bit excessive to use Twitter over SMS. I could probably get a data plan for less than that. Or I could stop using Twitter to my phone. I&#8217;m still saving money over having a mobile plan that I didn&#8217;t use for months at a time, but the cost if I stayed in the U.S. for any prolonged period of time would be far too much.</p>
 
 <p>A quick search after the initial publishing of this post showed me that I just need to switch from &#8220;Pay As You Go&#8221; to &#8221;<a href="http://prepaid-phones.t-mobile.com/pay-by-the-day-cell-phone-plans">Pay By The Day</a>&#8221; with T-Mobile. My maximum expenditure per month would be $31 plus probably a few minutes at 10 cents a minute if something was urgent.  Far better than the $80 I spent in February.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/02/26/edition-2-of-this-week-in-kates-brain-living-wellliving-meaningfully/">Edition 2 of This Week in Kate&#8217;s Brain - Living Well/Living Meaningfully</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-02-26T01:20:28+07:00" pubdate data-updated="true">Feb 26<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>This week my life and the articles I was really thinking about coincided very closely. The item of note for me is I moved all of my belongings into storage for an indeterminate amount of time. I&#8217;m spending this next month in Jakarta and I&#8217;m unsure exactly that I&#8217;ll be doing after that. Since my current living situation was coming to a close I figured it made sense not to do anything until April when I return. If nothing else I would save a months rent, more likely I will be happy for the flexibility when I return.</p>
+  <entry>
+    <title type="html"><![CDATA[Edition 2 of This Week in Kate's Brain - Living Well/Living Meaningfully]]></title>
+    <link href="http://wonderchook.github.com/blog/2012/02/26/edition-2-of-this-week-in-kates-brain-living-wellliving-meaningfully/"/>
+    <updated>2012-02-26T01:20:28+07:00</updated>
+    <id>http://wonderchook.github.com/blog/2012/02/26/edition-2-of-this-week-in-kates-brain-living-wellliving-meaningfully</id>
+    <content type="html"><![CDATA[<p>This week my life and the articles I was really thinking about coincided very closely. The item of note for me is I moved all of my belongings into storage for an indeterminate amount of time. I&#8217;m spending this next month in Jakarta and I&#8217;m unsure exactly that I&#8217;ll be doing after that. Since my current living situation was coming to a close I figured it made sense not to do anything until April when I return. If nothing else I would save a months rent, more likely I will be happy for the flexibility when I return.</p>
 
 <p>Another reason this was &#8220;in Kate&#8217;s Brain&#8221; this week was after a discussion with Christiann. We were discussing retirement and she made the statement that she &#8220;didn&#8217;t think about retirement.&#8221; This wasn&#8217;t in the careless way someone might say. To me it was the 30s idea of &#8220;do we have to live the traditional life of our parents?&#8221;</p>
 
@@ -194,42 +92,15 @@
 <p> </p>
 
 <p> </p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/02/21/pay-what-you-want-for-peer-help/">The #pwyw Experiment</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-02-21T04:14:03+07:00" pubdate data-updated="true">Feb 21<span>st</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>So previously I&#8217;ve read about restaurants switching to models of &#8220;pay what you want.&#8221; For example <a href="http://www.nytimes.com/2010/05/21/us/21free.html">Panera Bread tried that model in 2010 in Missouri</a>. Checking back in 2011 it <a href="http://www.usatoday.com/money/industries/food/2011-05-16-panera-pay-what-you-can_n.htm">appears to still be going strong</a>. Though the model hasn&#8217;t worked when applied to a Panera Bread in Portland, Oregon.  There <a href="http://consumerist.com/2011/09/why-paneras-pay-what-you-can-restaurant-didnt-work-in-portland.html">people ended up not paying, but also staying in the restaurant for many hours</a>. <a href="http://marginalrevolution.com/">Tyler Cowen</a> an economics professor <a href="http://www.salon.com/2010/06/17/pay_what_you_can_restaurants/">suggests that this method is unlikely to work for very many restaurant, especially if the method ceases to be a novelty</a>.</p>
+  <entry>
+    <title type="html"><![CDATA[The #pwyw Experiment]]></title>
+    <link href="http://wonderchook.github.com/blog/2012/02/21/pay-what-you-want-for-peer-help/"/>
+    <updated>2012-02-21T04:14:03+07:00</updated>
+    <id>http://wonderchook.github.com/blog/2012/02/21/pay-what-you-want-for-peer-help</id>
+    <content type="html"><![CDATA[<p>So previously I&#8217;ve read about restaurants switching to models of &#8220;pay what you want.&#8221; For example <a href="http://www.nytimes.com/2010/05/21/us/21free.html">Panera Bread tried that model in 2010 in Missouri</a>. Checking back in 2011 it <a href="http://www.usatoday.com/money/industries/food/2011-05-16-panera-pay-what-you-can_n.htm">appears to still be going strong</a>. Though the model hasn&#8217;t worked when applied to a Panera Bread in Portland, Oregon.  There <a href="http://consumerist.com/2011/09/why-paneras-pay-what-you-can-restaurant-didnt-work-in-portland.html">people ended up not paying, but also staying in the restaurant for many hours</a>. <a href="http://marginalrevolution.com/">Tyler Cowen</a> an economics professor <a href="http://www.salon.com/2010/06/17/pay_what_you_can_restaurants/">suggests that this method is unlikely to work for very many restaurant, especially if the method ceases to be a novelty</a>.</p>
 
 <h2>Can This Model Work for Peer to Peer Consulting?</h2>
 
@@ -278,84 +149,30 @@
 <p>Check out the <a href="https://www.google.com/calendar/selfsched?sstoken=UUNpSnV1b2VNVWQ4fGRlZmF1bHR8M2Q1YTQ4MWI5OWQzZTVlZjA4NzRjNjYzZDAyZmNmYTc">appointment slots available in my calendar</a> (you may have to sign in with Google, if there is a better solution please let me know in the comments). Please don&#8217;t forget to include a description of why you are making the appointment and how you would like me to contact you.</p>
 
 <p>So it begins, I&#8217;ll be Tweeting about my experiences with this under #pwyw,if you use this service or start your own you should too!</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/02/20/this-week-in-kates-brain/">This Week in Kate&#8217;s Brain</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-02-20T01:15:31+07:00" pubdate data-updated="true">Feb 20<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Thinking about data is a pretty common topic in my brain, but two particular articles got me thinking this week. Both happened to be from the New York Times.</p>
+  <entry>
+    <title type="html"><![CDATA[This Week in Kate's Brain]]></title>
+    <link href="http://wonderchook.github.com/blog/2012/02/20/this-week-in-kates-brain/"/>
+    <updated>2012-02-20T01:15:31+07:00</updated>
+    <id>http://wonderchook.github.com/blog/2012/02/20/this-week-in-kates-brain</id>
+    <content type="html"><![CDATA[<p>Thinking about data is a pretty common topic in my brain, but two particular articles got me thinking this week. Both happened to be from the New York Times.</p>
 
 <p>This first was &#8221;<a href="http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?_r=1&amp;pagewanted=1&amp;_r=1&amp;hp">How Companies Learn Your Secrets</a>.&#8221; The introduction to the article was how Target uses statistical analysis to determine which of the company&#8217;s customers is pregnant so they can target them with coupons. There is even a substory about a father whose daughter received the mailer and came to the store to complain.  It turned out he found out the following week his daughter was indeed pregnant. When a statistician has a training set of data it is amazing what can happen, in this particular case it was women who registered for Target baby registry.  From a privacy perspective it is interested to think about this case, technically Target isn&#8217;t doing anything wrong but the whole thing seems a bit creepy.</p>
 
 <p>The second article I&#8217;ve really been pondering over this week has been more about how analysis can be used for extreme good. Entitled &#8221;<a href="http://www.nytimes.com/2012/02/19/health/lives-forever-linked-through-kidney-transplant-chain-124.html?_r=3&amp;hp=&amp;pagewanted=all">60 Lives, 30 Kidneys, All Linked</a>.&#8221; Recently a transplant chain was completed that resulted in 30 people receiving new kidneys. The idea behind the chain is that often there are relatives or friends willing to give a kidney, but are not a match.  The transplant chain allows someone to say &#8220;I&#8217;ll give a kidney as long as the person I want to help is able to receive one.&#8221;  Organizing such a thing is quite a feat though, for example what if someone backs out after the person they love already receives a kidney? One thing that makes the chain easier is if it is started by someone who is not giving a kidney to a specific person.  The <a href="http://www.kidneyregistry.org/">National Kidney Registry</a> was founded to help create these donation chains. A big step fo them has been convincing the kidney transplant centers to register with the service.</p>
 
 <p>The thinking these articles inspired for me is really about the possibly of data for good and technology for business.  Some perhaps would argue that increasing business with technology is good because it can create jobs, but I think this is very dependent on the circumstances.  Then there are all of the uses for evil, but for me this week there wasn&#8217;t a particularly poignant article that I read. If you have such an article leave it in my comments.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/02/17/a-morning-of-funding-on-kickstarter/">A Morning of Funding on Kickstarter</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-02-17T17:26:42+07:00" pubdate data-updated="true">Feb 17<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>So this morning I ended up pointed to the <a href="http://www.kickstarter.com/">Kickstarter</a> project <a href="http://www.kickstarter.com/projects/kirby/this-is-not-a-conspiracy-theory">This is Not a Conspiracy Theory</a>. I have a plan to do a project soon, so on my list was to look at a range of projects to see how to make ours more likely to be funded.  Just to look at the community in general, the types of projects, how people pitch them and if I saw anything else that might be helpful. So I decided this morning was as good a time as any to do this and I began looking and also decide to back projects that I thought were interesting. I&#8217;ve backed a Kickstarter project in the past, but it didn&#8217;t end up getting the necessary pledges to be funded.</p>
+  <entry>
+    <title type="html"><![CDATA[A Morning of Funding on Kickstarter]]></title>
+    <link href="http://wonderchook.github.com/blog/2012/02/17/a-morning-of-funding-on-kickstarter/"/>
+    <updated>2012-02-17T17:26:42+07:00</updated>
+    <id>http://wonderchook.github.com/blog/2012/02/17/a-morning-of-funding-on-kickstarter</id>
+    <content type="html"><![CDATA[<p>So this morning I ended up pointed to the <a href="http://www.kickstarter.com/">Kickstarter</a> project <a href="http://www.kickstarter.com/projects/kirby/this-is-not-a-conspiracy-theory">This is Not a Conspiracy Theory</a>. I have a plan to do a project soon, so on my list was to look at a range of projects to see how to make ours more likely to be funded.  Just to look at the community in general, the types of projects, how people pitch them and if I saw anything else that might be helpful. So I decided this morning was as good a time as any to do this and I began looking and also decide to back projects that I thought were interesting. I&#8217;ve backed a Kickstarter project in the past, but it didn&#8217;t end up getting the necessary pledges to be funded.</p>
 
 <p>So the first project I funded was the one that brought me to Kickstarter on this particular day. I&#8217;m not sure if I would have had I just come upon the project on its own, but I had just watched <a href="http://vimeo.com/36881035">Everything is a Remix Part 4</a> and wanted to see another project from <a href="http://vimeo.com/kirbyferguson">Kirby Ferguson</a>.</p>
 
@@ -382,42 +199,15 @@
 <p>There were many projects I decided not to back, proof by the fact that I&#8217;m not broke now. This was for a variety of reasons. Of course the top reason was the project didn&#8217;t interest me. One of the other main ones was the project didn&#8217;t have a video.  I realize making a video is probably easier for the projets that are documentaries, but even a not particularly well produced video shows commitment and more about the project.  There were of course the projects where they just didn&#8217;t win over my heart, maybe the idea was sound but I just didn&#8217;t feel I should put my dollars behind it. That is the beauty of Kickstarter though, people can fund any of the projects that they are interested in for one reason or another.</p>
 
 <p>Or as in Portlandia spoof, just to help your daughter with her project.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/01/26/words-words-words-everywhere/">Words, Words, Words, Everywhere</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-01-26T09:35:17+07:00" pubdate data-updated="true">Jan 26<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>In my travels in Indonesia I’ll hear a word and then notice it is being used all the time in conversation.  Sometimes this is in a particular type of conversations other times it is not. I usually look them up right then or ask someone later when it is an appropriate time. Sometimes however they can’t understand what I’m asking them. In this case it takes much longer to find out what they mean.</p>
+  <entry>
+    <title type="html"><![CDATA[Words, Words, Words, Everywhere]]></title>
+    <link href="http://wonderchook.github.com/blog/2012/01/26/words-words-words-everywhere/"/>
+    <updated>2012-01-26T09:35:17+07:00</updated>
+    <id>http://wonderchook.github.com/blog/2012/01/26/words-words-words-everywhere</id>
+    <content type="html"><![CDATA[<p>In my travels in Indonesia I’ll hear a word and then notice it is being used all the time in conversation.  Sometimes this is in a particular type of conversations other times it is not. I usually look them up right then or ask someone later when it is an appropriate time. Sometimes however they can’t understand what I’m asking them. In this case it takes much longer to find out what they mean.</p>
 
 <p>One of those words was “merica.” Initially I asked <a href="http://whateverisaid.wordpress.com/">Emir Hartato</a> what it meant, but I must not have said it correctly. He didn’t understand what I mean.  So next I tried looking it up but I thought it was spelled “merica.” Looking this up though the word meant “pepper,” I knew this wasn’t right.  So either there was an additional meaning Google Translate wasn’t giving me or I had spelled the word wrong.  This word was being used a lot in meetings so I was sure they weren’t talking about pepper!</p>
 
@@ -426,42 +216,15 @@
 <p><a href="http://wonderchook.com/wp-content/uploads/wonderchook.com/2012/01/mereka.png"><img src="http://wonderchook.com/wp-content/uploads/wonderchook.com/2012/01/mereka.png" alt="The sign that said it all" /></a></p>
 
 <p>Maybe someday I’ll understand enough surrounding words that I’ll be able to figure out more vocabulary without these crazy adventures! I think I pick up 2 or 3 words a day naturally, maybe more.  It is hard to count though, since sometimes I learn words without realizing it.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2011/12/18/learning-indonesian/">Learning Indonesian</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-12-18T15:37:56+07:00" pubdate data-updated="true">Dec 18<span>th</span>, 2011</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>As many of you know I&#8217;ve spent the past year traveling in and out of Indonesia.  I&#8217;ve never previously spent as much time in one country other than the United States. It has been a new experience for me learning a language mostly through immersion.  I say &#8220;mostly&#8221; because I do have a book I study sometimes and I also quiz people when I have questions.  Though maybe quizzing people is part of immersion, I&#8217;m not sure if there are rules&#8230;</p>
+  <entry>
+    <title type="html"><![CDATA[Learning Indonesian]]></title>
+    <link href="http://wonderchook.github.com/blog/2011/12/18/learning-indonesian/"/>
+    <updated>2011-12-18T15:37:56+07:00</updated>
+    <id>http://wonderchook.github.com/blog/2011/12/18/learning-indonesian</id>
+    <content type="html"><![CDATA[<p>As many of you know I&#8217;ve spent the past year traveling in and out of Indonesia.  I&#8217;ve never previously spent as much time in one country other than the United States. It has been a new experience for me learning a language mostly through immersion.  I say &#8220;mostly&#8221; because I do have a book I study sometimes and I also quiz people when I have questions.  Though maybe quizzing people is part of immersion, I&#8217;m not sure if there are rules&#8230;</p>
 
 <p>About a month ago something clicked in my learning.  I started to understand a lot more.  This happened immediately after returning from a trip to Switzerland, not randomly one day while I was in Indonesia.  While in Switzerland I was in Geneva and in Bern.  I began taking German when I was in 8th grade and also studied it in College.  So while in Bern I was able to understand much of what people were saying.  I haven&#8217;t used my German in years so speaking it did not work very well, but I could understand.  Coming back though I was extremely surprised to be understanding a lot more Indonesian the first day I was back.</p>
 
@@ -470,42 +233,15 @@
 <p>Though this new found understanding has lead to one new goal for me personally though.  Not to zone out when people are speaking in Indonesian.  It is easy to do, because listening where you don&#8217;t understand everything can be exhausting.  However I&#8217;m making a real effort to pay attention the whole time.  Something I don&#8217;t know if I would have had the brain capacity to do before when I had no idea what was going on.</p>
 
 <p>We&#8217;ll see what happens the next time I return, I&#8217;m heading back to the US for the holidays and will try to keep up on my studying when I am there.  If you are curious as to the book I&#8217;ve been learning from it is called &#8221;<a href="http://www.amazon.com/Instant-Indonesian-express-different-Phrasebook/dp/0804833710">Instant Indonesian</a>&#8221; and it focuses on specific words and phrases you would use in everyday conversation.  I suspect I will need a new book in a couple months, but it has been really helpful to me so far.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2011/12/05/little-secret-we-talk-about-you/">Little Secret&#8230;.We Talk About You</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-12-05T12:14:18+07:00" pubdate data-updated="true">Dec 5<span>th</span>, 2011</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>_For some of you that have recently moved to DC you will roll your eyes. Mostly because this joke of mine is a bit old. _</p>
+  <entry>
+    <title type="html"><![CDATA[Little Secret....We Talk About You]]></title>
+    <link href="http://wonderchook.github.com/blog/2011/12/05/little-secret-we-talk-about-you/"/>
+    <updated>2011-12-05T12:14:18+07:00</updated>
+    <id>http://wonderchook.github.com/blog/2011/12/05/little-secret-we-talk-about-you</id>
+    <content type="html"><![CDATA[<p>_For some of you that have recently moved to DC you will roll your eyes. Mostly because this joke of mine is a bit old. _</p>
 
 <p>So I have lived in the Washington, D.C. area for the past 20 years. For those of you doing the math (well who also know my age) that means since I was 12 years old or since the beginning of 7th grade. I grew up in Herndon, Virginia, went to Oakton High School in Vienna and studied Geography at George Mason University. Frequently when people are moving to DC they ask me about it, how I like the city, what sort of communities there are, downsides, etc. My response more often than not is &#8220;I&#8217;ll let you in on a little secret, we talk about you.&#8221; The response is usually &#8220;huh?&#8221; or &#8220;what?&#8221; I then go on to explain, &#8220;well those of us that have been here for a while are in it for the long haul.&#8221;</p>
 
@@ -522,42 +258,15 @@
 <li><p>One meet-up that has a special place for me is <a href="http://www.accessibilitydc.org/">Accessibility DC</a>. A monthly meet-up it is focused on making technology accessible for all. Ever wondered how it is for someone to use a screenreader to view your website? Why is captioning so important? For me AccessDC has taught me to think differently about how technology can be used and applied to people&#8217;s daily lives. Everyone has the same wants and desires for information, how can we make that a reality?</p></li>
 </ul>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2011/12/03/sexism-in-a-womens-work-group/">Find a Man Someday</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-12-03T16:33:42+07:00" pubdate data-updated="true">Dec 3<span>rd</span>, 2011</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>So I was reminded the other day of a story from back when I worked at ChoicePoint. Like most places ChoicePoint had its problems, but was an okay place to work most of the time.  Then it was a company of 5,000 people and everyone really ended up in there own little work cliques based on interests or job function.  My clique at work as mostly comprised of the technical people that worked on iMapData and/or those that played sports.  The gender was pretty well mixed there.  I usually judge that at a company by how often when I&#8217;m in a meeting of 5-10 people that I&#8217;m the only woman in the room.  It was very rare there.</p>
+  <entry>
+    <title type="html"><![CDATA[Find a Man Someday]]></title>
+    <link href="http://wonderchook.github.com/blog/2011/12/03/sexism-in-a-womens-work-group/"/>
+    <updated>2011-12-03T16:33:42+07:00</updated>
+    <id>http://wonderchook.github.com/blog/2011/12/03/sexism-in-a-womens-work-group</id>
+    <content type="html"><![CDATA[<p>So I was reminded the other day of a story from back when I worked at ChoicePoint. Like most places ChoicePoint had its problems, but was an okay place to work most of the time.  Then it was a company of 5,000 people and everyone really ended up in there own little work cliques based on interests or job function.  My clique at work as mostly comprised of the technical people that worked on iMapData and/or those that played sports.  The gender was pretty well mixed there.  I usually judge that at a company by how often when I&#8217;m in a meeting of 5-10 people that I&#8217;m the only woman in the room.  It was very rare there.</p>
 
 <p>There were different groups you could participate in that were part of the vision of becoming rated one of the best places to work.  One of these was a women&#8217;s professional group (the actual name is escaping me at the moment).  Honestly I only began going to the group because they provided lunch and I wanted to see who else went.  Most of the women there were from different functions within the company, most where not technical.  I kept attending, because I thought it was good to meet people who worked in other areas and the speakers were interesting sometimes.  There was one incident where I decided not to anymore though.</p>
 
@@ -566,143 +275,46 @@
 <p>After the session had broken up and people began to leave I was walking behind two women that worked as administrative assistants.  They were talking about what they had heard, but mostly it was about Carol not being married.  The conversation went like this, &#8220;It must be hard for her to find a man who is more successful than her&#8221; and then the other woman replied, &#8220;Well, she shouldn&#8217;t worry. She&#8217;ll find a man someday.&#8221;  It seemed to me that all that these ladies had gotten out of the talk was that being successful would make it hard to get married.  Nothing about the interesting experiences and opportunities it allows.</p>
 
 <p>After that I never returned to the women&#8217;s group.  As someone who normally spent time with the technologists and geeks both at work and socially I didn&#8217;t have that much in common with them. Still to this day I am reminded of that women&#8217;s group when the topic of sexism in the workplace comes up.  I can&#8217;t say that this was the most sexist thing I heard or experienced during my employment at ChoicePoint.  There were more of the typical incidents as well, such as when I found an interesting exploit in our web application.  The response from one of the men I showed it to was, &#8220;did you husband do that?&#8221;  Though I don&#8217;t think about that as much, I think more about I wonder what became of those two women.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2011/11/12/joined-geekeasy/">Joined GeekEasy</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-11-12T05:59:09+07:00" pubdate data-updated="true">Nov 12<span>th</span>, 2011</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Hi should have probably posted this before I left DC, since the next-time I&#8217;ll be able to use it is early 2012.  I joined as a drop <a href="http://www.geekeasy.org/">GeekEasy</a>, GeekEasy is a new coworking space in NW DC near the corner of 14th and Florida.</p>
+  <entry>
+    <title type="html"><![CDATA[Joined GeekEasy]]></title>
+    <link href="http://wonderchook.github.com/blog/2011/11/12/joined-geekeasy/"/>
+    <updated>2011-11-12T05:59:09+07:00</updated>
+    <id>http://wonderchook.github.com/blog/2011/11/12/joined-geekeasy</id>
+    <content type="html"><![CDATA[<p>Hi should have probably posted this before I left DC, since the next-time I&#8217;ll be able to use it is early 2012.  I joined as a drop <a href="http://www.geekeasy.org/">GeekEasy</a>, GeekEasy is a new coworking space in NW DC near the corner of 14th and Florida.</p>
 
 <p>For those that aren&#8217;t familiar with the idea, <a href="http://en.wikipedia.org/wiki/Coworking">coworking</a> is getting together somewhere with likeminded people.  This is to simulate an office working environment.  Or at least the parts of it you miss when you work remotely all the time.  There are different types of facilities, some are generic, some focused around start-ups, some focused at technical people, others aimed at social enterprise.  GeekEasy is specifically aimed at geeks, my life-long friend <a href="http://xiann.com/">Christiann</a> was the first to join and that is what got me over there.  She and I work together in other locations, but sometimes a change of scenery can be really helpful.</p>
 
 <p>Anyway, if you are in DC and need somewhere to go and work you should check it out.  Maybe I&#8217;ll see you there sometime in 2012!</p>
-</div>
+]]></content>
+  </entry>
   
+  <entry>
+    <title type="html"><![CDATA[Pay as You Go]]></title>
+    <link href="http://wonderchook.github.com/blog/2011/11/05/pay-as-you-go/"/>
+    <updated>2011-11-05T03:51:05+07:00</updated>
+    <id>http://wonderchook.github.com/blog/2011/11/05/pay-as-you-go</id>
+    <content type="html"><![CDATA[<p>So by the end of 2011 I will have spent roughly 1/2 my time the year outside of the United States.  Paying monthly for Verizon is seeming unnecessary for me.  I don&#8217;t talk on the phone very much and I&#8217;ve gotten used to slow Internet access on my phone often when I&#8217;m abroad. I began investigating ways to save money on my phone and researched pay as you go plans.  My requirements were that I had to be able to buy a SIM Card (no CDMA networks) and it had to be cheaper than what I was paying monthly.</p>
+
+<p>So finally I decided on T-Mobile and ordered a SIM card.  I paid for overnight shipping so the total was $19.40.  Not too bad, though if I had gone to a store I could have saved the $11.00 in shipping costs, but T-Mobile said they couldn&#8217;t process my order.  Why they have to background check me for a prepaid card I don&#8217;t know.  I suppose to make sure I&#8217;m not a drug-dealer or something.  So I ended up going to a store and purchasing a SIM card for 6.99 + Tax and a $50.00 credit.</p>
+
+<p>So next up porting my old number to Google Voice.  I decided this was the easiest thing to do because then I wouldn&#8217;t have to notify anyone of a new number AND when I&#8217;m abroad people can contact me like they would at home.  The first step was to get into my Verizon account and find out my account number.  I had not reset my password to Verizon&#8217;s website in about a year and just paid the bill from my phone. When I finally looked into my Mobile expenses it turns out I was paying $161.57 a month! Though I did have a Mifi and a phone (yes, the above revelation shows something about my personal bookkeeping).  Anyway then I went through the process with Google Voice to port my mobile number.  When it says you may have a disruption in receiving calls and texts for up to three days they mean it.  Much hilarity ensued when I texted people and never received their response.  This was combined with the fact that I didn&#8217;t have a phone that would work with my new SIM card at the time.  Anyway, none of the mishaps were the end of the world and it was a good reminder of how dependent we can be on technology.</p>
+
+<p>So now that I&#8217;m all set-up to pay as I go, I&#8217;m off on another trip abroad.</p>
+]]></content>
+  </entry>
   
+  <entry>
+    <title type="html"><![CDATA[Another Place for Kate to Blog?]]></title>
+    <link href="http://wonderchook.github.com/blog/2011/10/26/another-place-for-kate-to-blog/"/>
+    <updated>2011-10-26T00:46:07+07:00</updated>
+    <id>http://wonderchook.github.com/blog/2011/10/26/another-place-for-kate-to-blog</id>
+    <content type="html"><![CDATA[<p>Yep, I decided I needed another blog.  This one however doesn&#8217;t have a theme.  Well other than &#8220;things I want to talk about.&#8221;</p>
 
-
-    </article>
+<p>Most of the other places I blog are entirely focused on mapping, I needed a new home for my other interests.</p>
+]]></content>
+  </entry>
   
-  <div class="pagination">
-    
-      <a class="prev" href="/blog/page/2/">&larr; Older</a>
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2012/03/03/sms-in-the-us/">How I Spent $80 on SMS Last Month</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/02/26/edition-2-of-this-week-in-kates-brain-living-wellliving-meaningfully/">Edition 2 of This Week in Kate&#8217;s Brain - Living Well/Living Meaningfully</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/02/21/pay-what-you-want-for-peer-help/">The #pwyw Experiment</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/02/20/this-week-in-kates-brain/">This Week in Kate&#8217;s Brain</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/02/17/a-morning-of-funding-on-kickstarter/">A Morning of Funding on Kickstarter</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-<section>
-  <h1>Latest Tweets</h1>
-  <ul id="tweets">
-    <li class="loading">Status updating&#8230;</li>
-  </ul>
-  <script type="text/javascript">
-    $.domReady(function(){
-      getTwitterFeed("wonderchook", 4, false);
-    });
-  </script>
-  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
-  
-    <a href="http://twitter.com/wonderchook" class="twitter-follow-button" data-show-count="false">Follow @wonderchook</a>
-  
-</section>
-
-
-
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2012 - Kate Chapman -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-
-</body>
-</html>
+</feed>

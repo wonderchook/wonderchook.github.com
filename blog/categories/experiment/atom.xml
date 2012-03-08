@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: experiment | Cluckings of Kate]]></title>
+  <link href="http://wonderchook.github.com/blog/categories/experiment/atom.xml" rel="self"/>
+  <link href="http://wonderchook.github.com/"/>
+  <updated>2012-03-08T12:43:09+07:00</updated>
+  <id>http://wonderchook.github.com/</id>
+  <author>
+    <name><![CDATA[Kate Chapman]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The #pwyw Experiment]]></title>
+    <link href="http://wonderchook.github.com/blog/2012/02/21/pay-what-you-want-for-peer-help/"/>
+    <updated>2012-02-21T04:14:03+07:00</updated>
+    <id>http://wonderchook.github.com/blog/2012/02/21/pay-what-you-want-for-peer-help</id>
+    <content type="html"><![CDATA[<p>So previously I've read about restaurants switching to models of "pay what you want." For example <a href="http://www.nytimes.com/2010/05/21/us/21free.html">Panera Bread tried that model in 2010 in Missouri</a>. Checking back in 2011 it <a href="http://www.usatoday.com/money/industries/food/2011-05-16-panera-pay-what-you-can_n.htm">appears to still be going strong</a>. Though the model hasn't worked when applied to a Panera Bread in Portland, Oregon.  There <a href="http://consumerist.com/2011/09/why-paneras-pay-what-you-can-restaurant-didnt-work-in-portland.html">people ended up not paying, but also staying in the restaurant for many hours</a>. <a href="http://marginalrevolution.com/">Tyler Cowen</a> an economics professor <a href="http://www.salon.com/2010/06/17/pay_what_you_can_restaurants/">suggests that this method is unlikely to work for very many restaurant, especially if the method ceases to be a novelty</a>.</p>
+
+<h2>Can This Model Work for Peer to Peer Consulting?</h2>
+
+<p>I would like to experiment with this model for peer to peer consulting. I've considered this for sometime, but in the past I have no had enough control over my time to really try it. Technologists often help each other out, be it through online forums, twitter, direct communication or through publishing knowledge to blogs or source-code repositories. There are sometimes those problems though that are too complex or too specific perhaps to depend on these methods.</p>
+
+<p>There have been times where I have been stuck on a problem and would have been overjoyed to have someone with expertise in that subject be able to sit down for a hour and help.  In these cases sometimes I felt it was asking too much for someone to assist with what I was stuck. Also there have been cases in the past where people maybe wanted me to teach them something and either time didn't allow or they were afraid to ask. This experiment is an attempt to eliminate this embarrassment.</p>
+
+<h2>The Experiment</h2>
+
+<ol>
+<li><p>I will publish office hours a week in advance</p></li>
+<li><p>You can go sign-up for slots, including a description and how I will contact you. I'm open to any means of communication as long as they are free.</p></li>
+<li><p>At the slotted time we will begin working on your problem. If it is a problem where it is be worked on asynchronously then I will work on it during the time-slot. If it is something that more requires discussion it will occur during the reserved time.</p></li>
+<li><p>If you are satisfied with the help and would like to pay for it then you can pay me through Paypal, send me a gift, trade anything that seems appropriate to you.</p></li>
+</ol>
+
+
+<h2>Are You Not Going to Help Informally Anymore?</h2>
+
+<p>No don't worry about that. Nothing is going to change in my interactions within the <a href="http://openstreetmap.org">OpenStreetMap</a> Community, the <a href="http://hot.openstreetmap.org/">Humanitarian OpenStreetMap Team</a>, <a href="http://crisismappers.net/">CrisisMappers</a> or any other place that I am active. This is simply a new method to get my assistance.</p>
+
+<h2>What Might Topics Can You Help?</h2>
+
+<p>I am the type of person that has varied interests, so I have held many types of jobs in the arena of mapping for the past ten years. Below are some items I am qualified for assisting.</p>
+
+<ul>
+<li><p>Geographic Data Analysis</p></li>
+<li><p>Introduction to Programming in Ruby or JavaScript</p></li>
+<li><p>Learning How to Get Started with OpenStreetMap</p></li>
+<li><p>Basics of using a Linux/Unix based operating system</p></li>
+<li><p>Using OpenStreetMap for humanitarian purposes</p></li>
+<li><p>Setting Up a Non-profit Organization (basic process in DC)</p></li>
+<li><p>Creating Presentations</p></li>
+<li><p>Social Media Usage (I only put this for the people that really, really don't get Twitter. But you probably aren't reading my blog if that is the case)</p></li>
+<li><p>Creating Data Collection Strategies</p></li>
+<li><p>Writing Software Requirements</p></li>
+<li><p>Creating a Technical Resume</p></li>
+<li><p>Online Technical Community Management</p></li>
+</ul>
+
+
+<p>Maybe you know me well and there is a topic I don't even know someone would want my expertise.</p>
+
+<h2>How to Try It</h2>
+
+<p>Check out the <a href="https://www.google.com/calendar/selfsched?sstoken=UUNpSnV1b2VNVWQ4fGRlZmF1bHR8M2Q1YTQ4MWI5OWQzZTVlZjA4NzRjNjYzZDAyZmNmYTc">appointment slots available in my calendar</a> (you may have to sign in with Google, if there is a better solution please let me know in the comments). Please don't forget to include a description of why you are making the appointment and how you would like me to contact you.</p>
+
+<p>So it begins, I'll be Tweeting about my experiences with this under #pwyw,if you use this service or start your own you should too!</p>
+]]></content>
+  </entry>
+  
+</feed>
